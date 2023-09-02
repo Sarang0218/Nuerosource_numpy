@@ -7,7 +7,7 @@ class Neural_Network(object):
         self.layerInput = 2
         
         self.layerHidden1 = 4
-        self.layerHidden2 = 5
+        self.layerHidden2 = 5# 
         self.layerHidden3 = 3
 
         self.layerOutput = 1
